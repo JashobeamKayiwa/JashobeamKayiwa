@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 float descriminant(float a,float b,float c){
     float power=pow(b,2);
     return power-(4*a*c);
